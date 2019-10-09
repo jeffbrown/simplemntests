@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: simplemntest
+---
+testFramework: junit
+sourceLanguage: java
